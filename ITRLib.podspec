@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "ITRLib"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.homepage     = "https://github.com/rshimokura/ItrSDK"
   spec.summary      = "ITR First Library"
   spec.license      = { :type => 'MIT' }
